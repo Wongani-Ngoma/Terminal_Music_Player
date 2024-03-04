@@ -33,4 +33,5 @@ Press SPACE to pause/resume the song
 
 ### To-do
 More command will be added to this terminal version
+
 Planning to add a graphical user interface
