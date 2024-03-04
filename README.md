@@ -1,5 +1,6 @@
 # Terminal_Music_Player
 Plays music from the terminal
+
 I used the SFML library to play the audio files, the rest of the code just handles the features you normally find in all music players (shuffle, repeat, selecting folders to look for music from etc).
 
 ## Workings
